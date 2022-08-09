@@ -1,0 +1,12 @@
+a{text-decoration: none;}
+.form-error{
+    color:red;
+    font-weight: bold;
+    font-size: 0.75rem;
+}
+img{
+  max-width: 100%;
+  max-width: 300px;
+  max-height: 200px;
+  min-height: 200px;
+}
